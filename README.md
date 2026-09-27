@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Document Q&A System
 
 **Student:** Sharanika  
@@ -101,3 +102,6 @@ Chat history is held in Streamlit session state. It remains available during the
 ## Academic note
 
 Be prepared to explain the document-ingestion, chunking, embedding, similarity-search, and answer-generation stages. Clearly identify which parts were adapted from the supplied project and which changes you made. Follow your instructor's citation and collaboration requirements.
+=======
+# Q-A-Rag-System
+>>>>>>> 2d7eb4a9ed0f374908586404bdd08cc54eb328c4
