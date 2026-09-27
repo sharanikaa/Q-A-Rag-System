@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/documents/*
+!data/documents/.gitkeep
+vectorstore/*
+!vectorstore/.gitkeep
